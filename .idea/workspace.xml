@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05e2e1bc-7a05-4435-92e7-4eaeb67da64e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1503786396">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="16" />
+          <entry key="java" value="2805" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2805" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="22" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="22" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://D:/apache-maven-3.5.4/conf/settings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="168" column="32" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>3</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/kaige123/MyLinkList.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/MyHashSet1.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/_20180813MyLinkListTest.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/_20180822PokeGame.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/_20180822PokeGameTesty.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/PaiMian.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/PokeHuaSe.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/SortByPaiMian.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/_20180822PokeGameTest.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/PokePaiMian.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/Poke.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/_20180824MaJiangGameTest.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/PokePlay.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/MahJong/ZiPai.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/MahJong/FengPai.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/_20180824MahJongGameTest.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/MahJong/MahJongBaseType.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/MahJong/MahJong.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/MyArrayList1.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/MyLinkList1.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/_20180828UdiskTester.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/_20180829UdiskPicOpenV1.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/_20180829FileTest.java" />
+        <option value="$PROJECT_DIR$/src/com/kaige123/_20180901FileInputStreamTest.java" />
+        <option value="D:/apache-maven-3.5.4/conf/settings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="252" />
+    <option name="y" value="175" />
+    <option name="width" value="1054" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VIP18_SE_Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIP18_SE_Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VIP18_SE_Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIP18_SE_Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VIP18_SE_Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIP18_SE_Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kaige123" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="D:/apache-maven-3.5.4/conf/settings.xml" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kaige123" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\VIP18_SE_Exercise" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application._20180901FileInputStreamTest">
+    <configuration name="_20180813MyLinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kaige123._20180813MyLinkListTest" />
+      <module name="VIP18_SE_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaige123.MahJong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_20180828UdiskTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kaige123._20180828UdiskTester" />
+      <module name="VIP18_SE_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaige123.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_20180829FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kaige123._20180829FileTest" />
+      <module name="VIP18_SE_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaige123.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_20180829UdiskPicOpenV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kaige123._20180829UdiskPicOpenV1" />
+      <module name="VIP18_SE_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaige123.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_20180901FileInputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kaige123._20180901FileInputStreamTest" />
+      <module name="VIP18_SE_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaige123.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application._20180813MyLinkListTest" />
+      <item itemvalue="Application._20180828UdiskTester" />
+      <item itemvalue="Application._20180829FileTest" />
+      <item itemvalue="Application._20180829UdiskPicOpenV1" />
+      <item itemvalue="Application._20180901FileInputStreamTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._20180901FileInputStreamTest" />
+        <item itemvalue="Application._20180829FileTest" />
+        <item itemvalue="Application._20180829UdiskPicOpenV1" />
+        <item itemvalue="Application._20180828UdiskTester" />
+        <item itemvalue="Application._20180813MyLinkListTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05e2e1bc-7a05-4435-92e7-4eaeb67da64e" name="Default Changelist" comment="" />
+      <created>1534824367359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534824367359</updated>
+      <workItem from="1534824373801" duration="436000" />
+      <workItem from="1534824884464" duration="1521000" />
+      <workItem from="1534853825550" duration="4154000" />
+      <workItem from="1534946429489" duration="3780000" />
+      <workItem from="1534950763360" duration="244000" />
+      <workItem from="1534951133202" duration="557000" />
+      <workItem from="1534983953297" duration="9688000" />
+      <workItem from="1534999697039" duration="500000" />
+      <workItem from="1535121817275" duration="2240000" />
+      <workItem from="1535153878096" duration="740000" />
+      <workItem from="1535200882642" duration="4477000" />
+      <workItem from="1535206003516" duration="118000" />
+      <workItem from="1535250619203" duration="730000" />
+      <workItem from="1535300665399" duration="602000" />
+      <workItem from="1535346013203" duration="989000" />
+      <workItem from="1535463454063" duration="5357000" />
+      <workItem from="1535548195183" duration="8790000" />
+      <workItem from="1535557644526" duration="824000" />
+      <workItem from="1535635168285" duration="732000" />
+      <workItem from="1535640253745" duration="782000" />
+      <workItem from="1535756584787" duration="4894000" />
+      <workItem from="1535812396076" duration="2085000" />
+      <workItem from="1535895092167" duration="462000" />
+      <workItem from="1536825822948" duration="407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55109000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.258596" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928367" weight="0.3899371" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928367" weight="0.39779875" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3254717" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32903227" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007163" side_tool="true" weight="0.39784947" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3295129" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="7" side_tool="true" visible="true" weight="0.37572256" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/MyHashSet1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="140" column="57" selection-start-line="140" selection-start-column="57" selection-end-line="140" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="362" column="12" selection-start-line="362" selection-start-column="12" selection-end-line="362" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="625" selection-start-line="625" selection-end-line="625" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="108" column="29" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/SortByPaiMian.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/MahJong/ZiPai.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/MahJong/FengPai.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/_20180822PokeGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/Poke/Poke.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/Poke/PokeHuaSe.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/Poke/PokePlay.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/Poke/PokePaiMian.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/MahJong/MahJongBaseType.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/_20180824MahJongGameTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/MahJong/MahJong.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/MyLinkList1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/_20180813MyLinkListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/MyArrayList1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="100" column="17" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="4432" selection-start-line="4432" selection-end-line="4432" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="383" selection-start-line="383" selection-end-line="383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/_20180828UdiskTester.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/_20180829UdiskPicOpenV1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/_20180829FileTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kaige123/_20180901FileInputStreamTest.java" />
+    <entry file="file://D:/apache-maven-3.5.4/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="168" column="32" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
